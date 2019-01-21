@@ -26,4 +26,4 @@ Other：非上述類別皆歸於此類
 圖片只取頭像，就當作表情差分用吧
 
 安裝方法：
-解壓縮後將gui資料夾放到X:\Games\World_of_Warships\res_mods\（版本號）
+解壓縮後將gui資料夾放到X:\Games\World_of_Warships\res_mods\a.b.c.d(目前WoWs版本號)
