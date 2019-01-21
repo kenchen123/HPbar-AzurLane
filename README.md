@@ -1,4 +1,5 @@
 HP bar - Azur Lane
+作者：ASIA [PNN] Kochiya_Sanae_2016
 
 簡單說就是把船體血條換成碧藍航線角色的樣式
 
@@ -27,3 +28,8 @@ Other：非上述類別皆歸於此類
 
 安裝方法：
 解壓縮後將gui資料夾放到X:\Games\World_of_Warships\res_mods\a.b.c.d(目前WoWs版本號)
+
+更多詳細：
+巴哈姆特 https://forum.gamer.com.tw/C.php?bsn=21052&snA=13898&tnum=12&subbsn=8
+WG亞服官方論壇 https://forum.worldofwarships.asia/topic/34300-all-azur-lane-hp-bar-alternative/
+WG美服官方論壇 https://forum.worldofwarships.com/topic/176983-all-azur-lane-hp-bar-alternative/
